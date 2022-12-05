@@ -1,0 +1,77 @@
+C:\Users\new user\Desktop\SchoolApp2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\new user\Desktop\SchoolApp2\bin\Debug\net6.0\appsettings.json
+C:\Users\new user\Desktop\SchoolApp2\bin\Debug\net6.0\SchoolApp2.staticwebassets.runtime.json
+C:\Users\new user\Desktop\SchoolApp2\bin\Debug\net6.0\SchoolApp2.exe
+C:\Users\new user\Desktop\SchoolApp2\bin\Debug\net6.0\SchoolApp2.deps.json
+C:\Users\new user\Desktop\SchoolApp2\bin\Debug\net6.0\SchoolApp2.runtimeconfig.json
+C:\Users\new user\Desktop\SchoolApp2\bin\Debug\net6.0\SchoolApp2.dll
+C:\Users\new user\Desktop\SchoolApp2\bin\Debug\net6.0\SchoolApp2.pdb
+C:\Users\new user\Desktop\SchoolApp2\bin\Debug\net6.0\Humanizer.dll
+C:\Users\new user\Desktop\SchoolApp2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\new user\Desktop\SchoolApp2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\new user\Desktop\SchoolApp2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\new user\Desktop\SchoolApp2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\new user\Desktop\SchoolApp2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\new user\Desktop\SchoolApp2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\new user\Desktop\SchoolApp2\obj\Debug\net6.0\SchoolApp2.csproj.AssemblyReference.cache
+C:\Users\new user\Desktop\SchoolApp2\obj\Debug\net6.0\SchoolApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\new user\Desktop\SchoolApp2\obj\Debug\net6.0\SchoolApp2.AssemblyInfoInputs.cache
+C:\Users\new user\Desktop\SchoolApp2\obj\Debug\net6.0\SchoolApp2.AssemblyInfo.cs
+C:\Users\new user\Desktop\SchoolApp2\obj\Debug\net6.0\SchoolApp2.csproj.CoreCompileInputs.cache
+C:\Users\new user\Desktop\SchoolApp2\obj\Debug\net6.0\SchoolApp2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\new user\Desktop\SchoolApp2\obj\Debug\net6.0\SchoolApp2.RazorAssemblyInfo.cache
+C:\Users\new user\Desktop\SchoolApp2\obj\Debug\net6.0\SchoolApp2.RazorAssemblyInfo.cs
+C:\Users\new user\Desktop\SchoolApp2\obj\Debug\net6.0\staticwebassets\msbuild.SchoolApp2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\new user\Desktop\SchoolApp2\obj\Debug\net6.0\staticwebassets\msbuild.build.SchoolApp2.props
+C:\Users\new user\Desktop\SchoolApp2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SchoolApp2.props
+C:\Users\new user\Desktop\SchoolApp2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SchoolApp2.props
+C:\Users\new user\Desktop\SchoolApp2\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\new user\Desktop\SchoolApp2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\new user\Desktop\SchoolApp2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\new user\Desktop\SchoolApp2\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\new user\Desktop\SchoolApp2\obj\Debug\net6.0\scopedcss\bundle\SchoolApp2.styles.css
+C:\Users\new user\Desktop\SchoolApp2\obj\Debug\net6.0\scopedcss\projectbundle\SchoolApp2.bundle.scp.css
+C:\Users\new user\Desktop\SchoolApp2\obj\Debug\net6.0\SchoolApp2.csproj.CopyComplete
+C:\Users\new user\Desktop\SchoolApp2\obj\Debug\net6.0\SchoolApp2.dll
+C:\Users\new user\Desktop\SchoolApp2\obj\Debug\net6.0\refint\SchoolApp2.dll
+C:\Users\new user\Desktop\SchoolApp2\obj\Debug\net6.0\SchoolApp2.pdb
+C:\Users\new user\Desktop\SchoolApp2\obj\Debug\net6.0\SchoolApp2.genruntimeconfig.cache
+C:\Users\new user\Desktop\SchoolApp2\obj\Debug\net6.0\ref\SchoolApp2.dll
+C:\Users\new user\Desktop\SchoolApp2\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\new user\Desktop\SchoolApp2\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Treehays\Desktop\SchoolApp2\SchoolApp2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Treehays\Desktop\SchoolApp2\SchoolApp2\bin\Debug\net6.0\appsettings.json
+C:\Users\Treehays\Desktop\SchoolApp2\SchoolApp2\bin\Debug\net6.0\SchoolApp2.staticwebassets.runtime.json
+C:\Users\Treehays\Desktop\SchoolApp2\SchoolApp2\bin\Debug\net6.0\SchoolApp2.exe
+C:\Users\Treehays\Desktop\SchoolApp2\SchoolApp2\bin\Debug\net6.0\SchoolApp2.deps.json
+C:\Users\Treehays\Desktop\SchoolApp2\SchoolApp2\bin\Debug\net6.0\SchoolApp2.runtimeconfig.json
+C:\Users\Treehays\Desktop\SchoolApp2\SchoolApp2\bin\Debug\net6.0\SchoolApp2.dll
+C:\Users\Treehays\Desktop\SchoolApp2\SchoolApp2\bin\Debug\net6.0\SchoolApp2.pdb
+C:\Users\Treehays\Desktop\SchoolApp2\SchoolApp2\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Treehays\Desktop\SchoolApp2\SchoolApp2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Treehays\Desktop\SchoolApp2\SchoolApp2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Treehays\Desktop\SchoolApp2\SchoolApp2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Treehays\Desktop\SchoolApp2\SchoolApp2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Treehays\Desktop\SchoolApp2\SchoolApp2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Treehays\Desktop\SchoolApp2\SchoolApp2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Treehays\Desktop\SchoolApp2\SchoolApp2\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Treehays\Desktop\SchoolApp2\SchoolApp2\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Treehays\Desktop\SchoolApp2\SchoolApp2\obj\Debug\net6.0\SchoolApp2.csproj.AssemblyReference.cache
+C:\Users\Treehays\Desktop\SchoolApp2\SchoolApp2\obj\Debug\net6.0\SchoolApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Treehays\Desktop\SchoolApp2\SchoolApp2\obj\Debug\net6.0\SchoolApp2.AssemblyInfoInputs.cache
+C:\Users\Treehays\Desktop\SchoolApp2\SchoolApp2\obj\Debug\net6.0\SchoolApp2.AssemblyInfo.cs
+C:\Users\Treehays\Desktop\SchoolApp2\SchoolApp2\obj\Debug\net6.0\SchoolApp2.csproj.CoreCompileInputs.cache
+C:\Users\Treehays\Desktop\SchoolApp2\SchoolApp2\obj\Debug\net6.0\SchoolApp2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Treehays\Desktop\SchoolApp2\SchoolApp2\obj\Debug\net6.0\SchoolApp2.RazorAssemblyInfo.cache
+C:\Users\Treehays\Desktop\SchoolApp2\SchoolApp2\obj\Debug\net6.0\SchoolApp2.RazorAssemblyInfo.cs
+C:\Users\Treehays\Desktop\SchoolApp2\SchoolApp2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Treehays\Desktop\SchoolApp2\SchoolApp2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Treehays\Desktop\SchoolApp2\SchoolApp2\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Treehays\Desktop\SchoolApp2\SchoolApp2\obj\Debug\net6.0\scopedcss\bundle\SchoolApp2.styles.css
+C:\Users\Treehays\Desktop\SchoolApp2\SchoolApp2\obj\Debug\net6.0\scopedcss\projectbundle\SchoolApp2.bundle.scp.css
+C:\Users\Treehays\Desktop\SchoolApp2\SchoolApp2\obj\Debug\net6.0\SchoolApp2.csproj.CopyComplete
+C:\Users\Treehays\Desktop\SchoolApp2\SchoolApp2\obj\Debug\net6.0\SchoolApp2.dll
+C:\Users\Treehays\Desktop\SchoolApp2\SchoolApp2\obj\Debug\net6.0\refint\SchoolApp2.dll
+C:\Users\Treehays\Desktop\SchoolApp2\SchoolApp2\obj\Debug\net6.0\SchoolApp2.pdb
+C:\Users\Treehays\Desktop\SchoolApp2\SchoolApp2\obj\Debug\net6.0\SchoolApp2.genruntimeconfig.cache
+C:\Users\Treehays\Desktop\SchoolApp2\SchoolApp2\obj\Debug\net6.0\ref\SchoolApp2.dll
